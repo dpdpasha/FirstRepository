@@ -19,15 +19,14 @@ namespace TestFirstRepository
             // Comment 4
             // Comment5 
             // Comment 6
-<<<<<<< HEAD
 
             // Comment 7 FOR master
-=======
+
             // Comment 7
             // Comment 8
             // Comment 9
             // Comment 10
->>>>>>> 4de9c4b655595ea486926ef7be5195cd1593f88e
+
         }
     }
 }
