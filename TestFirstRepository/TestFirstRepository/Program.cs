@@ -28,11 +28,7 @@ namespace TestFirstRepository
             // Comment 10
 
             // Comment 11
-<<<<<<< HEAD
 
-=======
-            // Comment 12
->>>>>>> 06f24db2314eb83668bdee114505ab4b00e70175
         }
     }
 }
