@@ -4,3 +4,9 @@ C:\Users\PDubossarskiy\Documents\FirstRepository\TestFirstRepository\TestFirstRe
 C:\Users\PDubossarskiy\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\obj\Debug\TestFirstRepository.exe
 C:\Users\PDubossarskiy\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\obj\Debug\TestFirstRepository.pdb
 C:\Users\PDubossarskiy\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\obj\Debug\TestFirstRepository.csprojResolveAssemblyReference.cache
+C:\Users\dpd\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\bin\Debug\TestFirstRepository.exe.config
+C:\Users\dpd\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\obj\Debug\TestFirstRepository.exe
+C:\Users\dpd\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\obj\Debug\TestFirstRepository.pdb
+C:\Users\dpd\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\bin\Debug\TestFirstRepository.exe
+C:\Users\dpd\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\bin\Debug\TestFirstRepository.pdb
+C:\Users\dpd\Documents\FirstRepository\TestFirstRepository\TestFirstRepository\obj\Debug\TestFirstRepository.csprojResolveAssemblyReference.cache
